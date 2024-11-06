@@ -10,6 +10,9 @@
 *.userosscache
 *.sln.docstates
 
+#venv ignore
+venv/
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -396,3 +399,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.env
